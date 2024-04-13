@@ -1,6 +1,6 @@
 #pragma once
 #include "Objects.h"
-#include "player.h"
+#include "Player.h"
 
 class InteractObject : public Object
 {
