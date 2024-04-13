@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1748"
+   height="230"
+   viewBox="0 0 1748 230"
+   sodipodi:docname="Background.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74942792"
+     inkscape:cx="1317.0046"
+     inkscape:cy="-138.10534"
+     inkscape:window-width="3200"
+     inkscape:window-height="1711"
+     inkscape:window-x="2551"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <image
+       width="1748"
+       height="230"
+       preserveAspectRatio="none"
+       xlink:href="Background2.png"
+       id="image10" />
+    <path
+       style="fill:#000000"
+       d="m -0.05897055,207.63039 1748.06747055,0.83049 -0,21.51383 -1748.06387054,0.12836 z"
+       id="path224"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 918.82586,86.816222 40.9896,-0.0417 60.17094,0.0417 h 41.5733 l 98.273,-31.973614 122.069,0.117941 236.0895,31.605482 51.2057,0.667175 49.5378,0.166794 z"
+       id="path337" />
+  </g>
+</svg>
